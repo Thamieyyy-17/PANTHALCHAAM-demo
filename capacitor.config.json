@@ -1,0 +1,6 @@
+{
+  "appId": "com.panthalchaam.localdemo",
+  "appName": "PANTHALCHAAM",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
